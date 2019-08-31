@@ -2,7 +2,7 @@
    When used for landuse change modeling, Cellular Automata (CA) traditionally assume each cell to be of one landuse type at each time step, ignoring the mixed landuse structures that are often found in land units. Mixed cells, composed of cover proportions of multiple landuse types, can better express the continuous changes of land use, and provide a new perspective for modeling the spatio-temporal dynamics of mixed landuse structures. 
   Simulating landuse change with mixed cells is challenging because mixed-cell CAs are fundamentally different from conventional CAs. We presents the first attempt of developing a mixed-cell CA (MCCA). The structure of CA is re-designed based on mixed cells, including the representations of cell state, lattice, and neighborhood. The transition rules are automatically constructed by random-forest regression over historical data and a competition mechanism selects among multiple landuse types at the sub-cell scale. In addition, evaluation methods for both simulation accuracy and similarity of landuse structure are proposed for MCCA. 
 # User manual
-Please find the PDF file: User_Manual_MCCA-20190901-Eng.pdf
+Please find the attached PDF file 'User_Manual_MCCA-20190901-Eng.pdf' in the Repository.
 # Innovation and advantages 
   The MCCA represents a new breed of geospatial CA models for spatio-temporal dynamics of mixed landuse structures. Also, the MCCA provides a new approach to enable more dynamic mixed landuse modeling to move away from the analysis of static patterns. 
 One of the biggest advantages of mixed-cell CA models is the capability of simulating the quantitative and continuous changes of multiple landuse components inside cells, while pure-cell CA models can only simulate the qualitative and discrete change of landuse at the cell level. Therefore, mixed-cell CA models are able to simulate subtle changes in landuse structures caused by minor variations of socio-economic, eco-environmental and political driving factors, providing a detailed perspective for understanding landuse change process.
@@ -14,7 +14,7 @@ One of the biggest advantages of mixed-cell CA models is the capability of simul
 Run independently on Windows Vista/7/8/X 64-bit environment, without any dependencies and setup process.
 # Consultation 
 If you have technical questions regarding MCCA software, please contact Dr. Xun Liang (liangxun@cug.edu.cn)
-# Authors
+# Authors & developers
 Xun Liang, Qingfeng Guan*, Yao Yao, Keith.C.Clarke
 * Corresponding author. E-mail address: guanqf@cug.edu.cn (Qingfeng Guan).
 # Contact info
