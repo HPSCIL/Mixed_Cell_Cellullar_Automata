@@ -21,5 +21,5 @@ Xun Liang, Qingfeng Guan*, Yao Yao, Keith.C.Clarke
 * Corresponding author. E-mail address: guanqf@cug.edu.cn (Qingfeng Guan).
 # Contact info
 High-performance Spatial Computational Intelligence Lab(HPSCIL) (https://github.com/HPSCIL)
-School of Geography and Information Engineering, China University of Geosciences, Wuhan, Hubei 430078, China
+School of Geography and Information Engineering, China University of Geosciences, Wuhan, Hubei 430078, China.
 For any possible research collaboration, please contact Prof. Qingfeng Guan (guanqf@cug.edu.cn)
