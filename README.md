@@ -17,7 +17,7 @@ One of the biggest advantages of mixed-cell CA models is the capability of simul
 # Consultation 
 If you have technical questions regarding MCCA software, please contact Dr. Xun Liang (liangxun@cug.edu.cn)
 # Authors & developers
-Xun Liang, Qingfeng Guan*, Yao Yao, Keith.C.Clarke
+Xun Liang, Qingfeng Guan*, Yao Yao, Keith C. Clarke
 * Corresponding author. E-mail address: guanqf@cug.edu.cn (Qingfeng Guan).
 # Contact info
 High-performance Spatial Computational Intelligence Lab(HPSCIL) (https://github.com/HPSCIL)
