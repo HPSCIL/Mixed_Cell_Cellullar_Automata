@@ -4,7 +4,7 @@
 # Running environment
 Run MCCA software by double-clicking the exe file 'MCCA V1.0_boxed.exe'. MCCA software can run independently on Windows Vista/7/8/X 64-bit environment, without any dependencies and setup process.
 # User manual
-Please find the attached PDF file 'User_Manual_MCCA-20190901-Eng.pdf' in the Repository.
+Please find the attached PDF file 'User_Manual_MCCA-20191206-Eng.pdf' in the Repository.
 # Test data
 Please find the compressed file 'Testdata.zip' in the Repository.
 # Innovation and advantages 
