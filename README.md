@@ -23,3 +23,6 @@ Xun Liang, Qingfeng Guan*, Yao Yao, Keith C. Clarke
 High-performance Spatial Computational Intelligence Lab(HPSCIL) (https://github.com/HPSCIL)
 School of Geography and Information Engineering, China University of Geosciences, Wuhan, Hubei 430078, China.
 For any possible research collaboration, please contact Prof. Qingfeng Guan (guanqf@cug.edu.cn)
+# Interfaces
+![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic1.png)
+![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic2.png)
