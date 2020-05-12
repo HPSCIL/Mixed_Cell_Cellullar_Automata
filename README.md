@@ -1,6 +1,9 @@
 # Mixed-Cell Cellular Automata (MCCA) software
    When used for landuse change modeling, Cellular Automata (CA) traditionally assume each cell to be of one landuse type at each time step, ignoring the mixed landuse structures that are often found in land units. Mixed cells, composed of cover proportions of multiple landuse types, can better express the continuous changes of land use, and provide a new perspective for modeling the spatio-temporal dynamics of mixed landuse structures. 
   Simulating landuse change with mixed cells is challenging because mixed-cell CAs are fundamentally different from conventional CAs. We presents the first attempt of developing a mixed-cell CA (MCCA). The structure of CA is re-designed based on mixed cells, including the representations of cell state, lattice, and neighborhood. The transition rules are automatically constructed by random-forest regression over historical data and a competition mechanism selects among multiple landuse types at the sub-cell scale. In addition, evaluation methods for both simulation accuracy and similarity of landuse structure are proposed for MCCA. 
+# Interfaces
+![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic1.png)
+![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic2.png)
 # Running environment
 Run MCCA software by double-clicking the exe file 'MCCA V1.0_boxed.exe'. MCCA software can run independently on Windows Vista/7/8/X 64-bit environment, without any dependencies and setup process.
 # User manual
@@ -23,6 +26,4 @@ Xun Liang, Qingfeng Guan*, Yao Yao, Keith C. Clarke
 High-performance Spatial Computational Intelligence Lab(HPSCIL) (https://github.com/HPSCIL)
 School of Geography and Information Engineering, China University of Geosciences, Wuhan, Hubei 430078, China.
 For any possible research collaboration, please contact Prof. Qingfeng Guan (guanqf@cug.edu.cn)
-# Interfaces
-![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic1.png)
-![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic2.png)
+
