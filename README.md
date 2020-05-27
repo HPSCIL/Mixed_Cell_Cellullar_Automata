@@ -19,9 +19,7 @@ One of the biggest advantages of mixed-cell CA models is the capability of simul
   MCCA was developed purely in the C++ language. The parallel technology of MCCA software is from High-performance Spatial Computational Intelligence Lab @ China University of Geosciences (Wuhan) (https://github.com/HPSCIL). The Random forest technique in our model is from a powerful open source library called Alglib 3.9.2 (http://www.alglib.net/). The linear regression algorithm is from (https://github.com/fengbingchun/NN_Test).The UI of the software is built using a famous open source library Qt 5 (https://www.qt.io/download/). This UI provides a real-time display of dynamic changes of land use in simulation process. Moreover, the using of open source library GDAL 2.0.2 (http://www.gdal.org/) allows our model to directly read and write raster data (.tif, .img, .txt files) that includes geographical coordinate information. 
 # Consultation 
 If you have technical questions regarding MCCA software, please contact Dr. Xun Liang (liangxun@cug.edu.cn)
-# Authors & developers
-Xun Liang, Qingfeng Guan*, Yao Yao, Keith C. Clarke
-* Corresponding author. E-mail address: guanqf@cug.edu.cn (Qingfeng Guan).
+
 # Contact info
 High-performance Spatial Computational Intelligence Lab(HPSCIL) (https://github.com/HPSCIL)
 School of Geography and Information Engineering, China University of Geosciences, Wuhan, Hubei 430078, China.
