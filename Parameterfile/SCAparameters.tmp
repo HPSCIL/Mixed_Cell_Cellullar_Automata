@@ -1,0 +1,32 @@
+<Input classes>
+7
+<Input LULC>
+C:/MCCAdata/QGISgrid/whma_wgs84_2015_mirror2_landuse_7.tif
+<Input Probability Folder>
+C:/MCCAdata/Revised/PoO10_15/regressionProbRF_2010_2015_RASTER_band_1.tif
+<Output simulation>
+C:/MCCAdata/test0618/testtest.tif
+<Number of Input Policy>
+1
+<Input Policy>
+C:/MCCAdata/QGISgrid/whma_wgs84_2015_mirror2_landuse_4.tif,4
+<Input Neighborhood>
+3
+<How many years>
+1
+<Input thread count>
+1
+<Patch generation>
+0.5
+<Speed Parameters>
+1,1,1,1,1,1,1
+<Transition matrix>
+1,1,1,1,1,1,0
+1,1,1,0,1,1,0
+1,1,1,0,1,1,0
+1,0,0,1,1,1,0
+0,0,0,0,1,0,0
+0,0,0,0,1,1,0
+1,1,1,1,1,1,1
+<Years and corresponding demands>
+1,0.4178,0.3099,0.0238,0.1242,0.0839,0.0368,0.0009
