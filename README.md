@@ -1,6 +1,11 @@
 # Mixed-Cell Cellular Automata (MCCA) software
    When used for landuse change modeling, Cellular Automata (CA) traditionally assume each cell to be of one landuse type at each time step, ignoring the mixed landuse structures that are often found in land units. Mixed cells, composed of cover proportions of multiple landuse types, can better express the continuous changes of land use, and provide a new perspective for modeling the spatio-temporal dynamics of mixed landuse structures. 
-  Simulating landuse change with mixed cells is challenging because mixed-cell CAs are fundamentally different from conventional CAs. We present the first attempt of developing a mixed-cell CA (MCCA). The structure of CA is re-designed based on mixed cells, including the representations of cell state, lattice, and neighborhood. The transition rules are automatically constructed by random-forest regression over historical data and a competition mechanism selects among multiple landuse types at the sub-cell scale. In addition, evaluation methods for both simulation accuracy and similarity of landuse structure are proposed for MCCA. 
+  Simulating landuse change with mixed cells is challenging because mixed-cell CAs are fundamentally different from conventional CAs. We present the first attempt of developing a mixed-cell CA (MCCA). The structure of CA is re-designed based on mixed cells, including the representations of cell state, lattice, and neighborhood. The transition rules are automatically constructed by random-forest regression over historical data and a competition mechanism selects among multiple landuse types at the sub-cell scale. In addition, evaluation methods for both simulation accuracy and similarity of landuse structure are proposed for MCCA. # Mixed-Cell Cellular Automata (MCCA) software
+  
+# Article
+Liang X., Guan Q.*, Clarke KC, Chen G., Guo S., & Yao Y., 2020. Mixed-cell Cellular Automata: A new approach for simulating the spatio-temporal dynamics of mixed land use structures. Landscape and Urban Planning, DOI: https://doi.org/10.1016/j.landurbplan.2020.103960.
+ 
+ 
 # Interfaces
 ![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic1.png)
 ![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic2.png)
