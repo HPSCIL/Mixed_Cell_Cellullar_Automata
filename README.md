@@ -4,6 +4,9 @@
   
 # Article
 Please find the attached PDF file 'MCCAarticle.pdf' in the Repository.  
+Or download from the free share link:  
+https://authors.elsevier.com/c/1bqTPcUG5IST0  
+
 To cite this paper and software:    
   
 Liang X., Guan Q.*, Clarke KC, Chen G., Guo S., & Yao Y., 2020. Mixed-cell Cellular Automata: A new approach for simulating the spatio-temporal dynamics of mixed land use structures. Landscape and Urban Planning, DOI: https://doi.org/10.1016/j.landurbplan.2020.103960.
