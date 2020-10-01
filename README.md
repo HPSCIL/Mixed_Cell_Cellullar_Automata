@@ -3,6 +3,8 @@
   Simulating landuse change with mixed cells is challenging because mixed-cell CAs are fundamentally different from conventional CAs. We present the first attempt of developing a mixed-cell CA (MCCA). The structure of CA is re-designed based on mixed cells, including the representations of cell state, lattice, and neighborhood. The transition rules are automatically constructed by random-forest regression over historical data and a competition mechanism selects among multiple landuse types at the sub-cell scale. In addition, evaluation methods for both simulation accuracy and similarity of landuse structure are proposed for MCCA. # Mixed-Cell Cellular Automata (MCCA) software
   
 # Article
+Please find the attached PDF file 'MCCA article.pdf' in the Repository.
+To cite this paper and software:
 Liang X., Guan Q.*, Clarke KC, Chen G., Guo S., & Yao Y., 2020. Mixed-cell Cellular Automata: A new approach for simulating the spatio-temporal dynamics of mixed land use structures. Landscape and Urban Planning, DOI: https://doi.org/10.1016/j.landurbplan.2020.103960.
  
  
