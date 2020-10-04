@@ -3,8 +3,7 @@
   Simulating landuse change with mixed cells is challenging because mixed-cell CAs are fundamentally different from conventional CAs. We present the first attempt of developing a mixed-cell CA (MCCA). The structure of CA is re-designed based on mixed cells, including the representations of cell state, lattice, and neighborhood. The transition rules are automatically constructed by random-forest regression over historical data and a competition mechanism selects among multiple landuse types at the sub-cell scale. In addition, evaluation methods for both simulation accuracy and similarity of landuse structure are proposed for MCCA. 
   
 # Article
-Please find the attached PDF file 'MCCAarticle.pdf' in the Repository.  
-Or download from the free share link:  
+The article can be downloaded from the free share link:  
 https://authors.elsevier.com/c/1bqTPcUG5IST0  
 
 To cite this paper and software:    
