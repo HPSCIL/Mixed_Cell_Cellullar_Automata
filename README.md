@@ -11,7 +11,7 @@ To cite this paper and software:
 Liang X., Guan Q.*, Clarke KC, Chen G., Guo S., & Yao Y., 2021. Mixed-cell Cellular Automata: A new approach for simulating the spatio-temporal dynamics of mixed land use structures. Landscape and Urban Planning, 205:103960. DOI: https://doi.org/10.1016/j.landurbplan.2020.103960.
  
 # Baidu Cloud Download
-Link：https://pan.baidu.com/s/19JG0qcypYwzCe2fXZmOIjQ 
+Link：https://pan.baidu.com/s/19JG0qcypYwzCe2fXZmOIjQ  
 Code：83c5 
  
 # Interfaces
