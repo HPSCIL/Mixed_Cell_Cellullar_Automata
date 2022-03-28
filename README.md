@@ -10,7 +10,10 @@ Liang X., Guan Q.*, Clarke KC, Chen G., Guo S., & Yao Y., 2021. Mixed-cell Cellu
 # Baidu Cloud Download
 Link：https://pan.baidu.com/s/19JG0qcypYwzCe2fXZmOIjQ  
 Code：83c5 
- 
+
+# More Information
+https://xungst.github.io/
+
 # Interfaces
 ![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic1.png)
 ![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic2.png)
